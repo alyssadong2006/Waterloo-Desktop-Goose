@@ -1,0 +1,4 @@
+dist/
+windows/bin/
+windows/obj/
+.DS_Store
